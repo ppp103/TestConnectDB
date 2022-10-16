@@ -10,3 +10,15 @@ D:\HocHanh(ki5)\C#\Projects\TrenLop\15_10_2022\KetNoiCSDL\KetNoiCSDL\obj\Debug\K
 D:\HocHanh(ki5)\C#\Projects\TrenLop\15_10_2022\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.CoreCompileInputs.cache
 D:\HocHanh(ki5)\C#\Projects\TrenLop\15_10_2022\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.exe
 D:\HocHanh(ki5)\C#\Projects\TrenLop\15_10_2022\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.pdb
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe.config
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\bin\Debug\KetNoiCSDL.pdb
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.AssemblyReference.cache
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\obj\Debug\KetNoiCSDL.Form1.resources
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\obj\Debug\KetNoiCSDL.Properties.Resources.resources
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.GenerateResource.cache
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.CoreCompileInputs.cache
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\obj\Debug\KetNoiCSDL.exe
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\obj\Debug\KetNoiCSDL.pdb
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\bin\Debug\DataBase\DuLieu.mdf
+D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\bin\Debug\DataBase\DuLieu_log.ldf

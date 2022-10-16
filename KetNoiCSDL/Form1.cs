@@ -16,7 +16,7 @@ namespace KetNoiCSDL
         public Form1()
         {
             InitializeComponent();
-            con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\HocHanh(ki5)\C#\Projects\TrenLop\15_10_2022\KetNoiCSDL\KetNoiCSDL\QlyChatLieu.mdf;Integrated Security=True");
+            con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\DataBase\DuLieu.mdf;Integrated Security=True");
         }
 
         private void Form1_Load(object sender, EventArgs e)

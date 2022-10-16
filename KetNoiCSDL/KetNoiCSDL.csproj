@@ -96,12 +96,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="QlyChatLieu.mdf">
+    <Content Include="DataBase\DuLieu.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="QlyChatLieu_log.ldf">
+    <Content Include="DataBase\DuLieu_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>QlyChatLieu.mdf</DependentUpon>
+      <DependentUpon>DuLieu.mdf</DependentUpon>
     </Content>
   </ItemGroup>
   <ItemGroup>
