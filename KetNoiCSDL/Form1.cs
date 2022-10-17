@@ -16,7 +16,8 @@ namespace KetNoiCSDL
         public Form1()
         {
             InitializeComponent();
-            con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\HocHanh(ki5)\C#\Projects\Test\KetNoiCSDL\DataBase\DuLieu.mdf;Integrated Security=True");
+            con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename= Data Source=.\\SQLEXPRESS;AttachDbFilename=" + System.IO.Directory.GetCurrentDirectory().ToString() + "\\DataBase\\" +
+                "DuLieu.mdf;Integrated Security=True");
         }
 
         private void Form1_Load(object sender, EventArgs e)
